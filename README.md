@@ -1,1 +1,1 @@
-# odin-recipes
+This is a basic recipe website that will showcase my skills in HTML and git.
