@@ -1,0 +1,12 @@
+body {
+    background-color: #FEE715;
+    color: #101820;
+}
+
+.recipe-list {
+    font-size: 24px;
+}
+
+.recipe-list li a {
+    color: #101820;;
+}
