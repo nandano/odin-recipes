@@ -7,6 +7,6 @@ body {
     font-size: 24px;
 }
 
-.recipe-list li a {
+a {
     color: #101820;;
 }
