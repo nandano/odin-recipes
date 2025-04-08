@@ -5,8 +5,22 @@ body {
 
 .recipe-list {
     font-size: 24px;
+    text-align: center;
+    list-style-type: none;
 }
 
 a {
-    color: #101820;;
+    color: #101820;
+}
+
+h1 {
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.recipe-list li a {
+    margin: 30px;
+    padding: 15px;
+    background-color: aliceblue;
+    display: block;
 }
